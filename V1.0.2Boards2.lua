@@ -1,5 +1,5 @@
-local Locate = script.Parent.Parent.Parent
-local boardpart = script.Parent.Parent
+local Locate = script.Parent.Parent.Parent.Parent
+local boardpart = script.Parent.Parent.Parent
 
 local AS = Locate["Main"]
 
